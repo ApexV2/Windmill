@@ -37,8 +37,11 @@ npm start
 
 ## Project Structure
 windmill-js/
+
 ├── src/
+
 │ └── index.js
+
 └── package.json
 
 - `src/index.js`: Main entry point of the application
