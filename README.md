@@ -1,4 +1,4 @@
-# Windmill - Data Stream Processor
+# Windmill - Data Stream Processor ![game-icons--windmill](https://github.com/user-attachments/assets/5e504943-2b00-442c-934e-b9e4ed841155)
 
 Windmill is a simple data stream processor implemented in JavaScript. It's designed to handle and process continuous streams of data efficiently.
 
